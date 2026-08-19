@@ -1,14 +1,307 @@
 {
   "items": [
     {
-      "description": "Thanks goes to these wonderful people ✨:\nThis project follows the all-contributors specification. Contributions of any kind welcome! See CONTRIBUTING.",
-      "items": [],
-      "title": "Contributors"
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "2019-03-08 Micronaut: The Power of Ahead of Time (AOT) Compilation by Graeme Rocher",
+          "description": "at Devnexus 2019 / 2GM (description, slides, slides/source, code/aotdemos)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 123307848,
+            "language": "Java",
+            "last_commit": "2023-10-06T12:46:12Z",
+            "owner": "micronaut-projects",
+            "repo": "presentations",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2019-03-08 Micronaut Deep Dive by Graeme Rocher",
+          "description": "at Devnexus 2019 / 2GM (description, slides, slides/source)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 123307848,
+            "language": "Java",
+            "last_commit": "2023-10-06T12:46:12Z",
+            "owner": "micronaut-projects",
+            "repo": "presentations",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2019-03-07 Getting the Best of Grails 4.0 and Micronaut by Graeme Rocher",
+          "description": "at Devnexus 2019 / 2GM (description, slides, slides/source)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 123307848,
+            "language": "Java",
+            "last_commit": "2023-10-06T12:46:12Z",
+            "owner": "micronaut-projects",
+            "repo": "presentations",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2019-03-28 Learn Micronaut Workshop by Álvaro Sánchez-Mariscal",
+          "description": "at Greach 2019 (code)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 157191012,
+            "language": "Java",
+            "last_commit": "2026-04-15T13:35:24Z",
+            "owner": "alvarosanchez",
+            "repo": "micronaut-v1-workshop-java",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2019-03-07 Micronaut For Single Page Apps by Zachary Klein",
+          "description": "at Devnexus 2019 / 2GM (description, slides, code/micronaut-spa-react, guide/micronaut-spa-react)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 174250300,
+            "language": "Java",
+            "last_commit": "2022-12-09T14:56:07Z",
+            "owner": "micronaut-guides",
+            "repo": "micronaut-spa-react",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2019-04-19 Micronaut Dragon-Slayer (Spring/Boot) or just another framework",
+          "description": "by Vladimir Dejanovic at Devoxx France 2019 (code)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 181223220,
+            "language": "Java",
+            "last_commit": "2020-10-13T14:05:20Z",
+            "owner": "vladimir-dejanovic",
+            "repo": "micronaut-vs-spring-boot",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2019-03-22 Ad Astra - Cloud Native Microservices with Micronaut by Michael Hunger",
+          "description": "at Codemotion 2019 (description, slides, code)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 176542109,
+            "language": "Java",
+            "last_commit": "2019-03-22T09:58:53Z",
+            "owner": "jexp",
+            "repo": "meetup-recommendations-micronaut",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2019-03-19 Skyrocketing Microservices Development With Micronaut by Hubert Klein Ikkink",
+          "description": "at JavaLand 2019 (description, slides/source, code)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 176709787,
+            "language": null,
+            "last_commit": "2019-03-20T10:34:17Z",
+            "owner": "mrhaki",
+            "repo": "javaland2019-micronaut",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2019-03-30 Zipfiles on the Fly with Micronaut by Jacob Aae Mikkelsen",
+          "description": "at Greach 2019 (code)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 177408780,
+            "language": "Groovy",
+            "last_commit": "2019-03-30T07:59:12Z",
+            "owner": "JacobAae",
+            "repo": "zipstreamer",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2019-05-10 Cloud-native Microservices with Micronaut by Iván López",
+          "description": "at Devoxx UK 2019 (slides, code)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 185024851,
+            "language": "Java",
+            "last_commit": "2019-05-08T21:44:59Z",
+            "owner": "ilopmar",
+            "repo": "devoxxuk-2019-micronaut",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Talks and Screencasts"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Official Micronaut Petstore",
+          "description": "by OCI",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 131314325,
+            "language": null,
+            "last_commit": "2022-11-22T04:42:30Z",
+            "owner": "micronaut-projects",
+            "repo": "micronaut-examples",
+            "stars": 532
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ASCLAB Micronaut PoC - LAB Insurance Sales Portal",
+          "description": "by Altkom Software & Consulting",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 143267111,
+            "language": "Java",
+            "last_commit": "2022-08-13T18:19:59Z",
+            "owner": "asc-lab",
+            "repo": "micronaut-microservices-poc",
+            "stars": 497
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sample Micronaut Microservices",
+          "description": "by Piotr Mińkowski",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 166844555,
+            "language": "Java",
+            "last_commit": "2026-02-25T21:15:19Z",
+            "owner": "piomin",
+            "repo": "sample-micronaut-microservices",
+            "stars": 60
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Micronaut Book Catalog",
+          "description": "by Jonas Havers",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 157515802,
+            "language": "Java",
+            "last_commit": "2019-01-21T10:10:39Z",
+            "owner": "JonasTebben",
+            "repo": "book-catalog",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Micronaut Beer Microservices",
+          "description": "by Mauricio Farache",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 138188770,
+            "language": "Shell",
+            "last_commit": "2018-11-01T11:09:51Z",
+            "owner": "mfarache",
+            "repo": "micronaut-ms",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Micronaut Meetup Event Recommendations",
+          "description": "by Michael Hunger",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 176542109,
+            "language": "Java",
+            "last_commit": "2019-03-22T09:58:53Z",
+            "owner": "jexp",
+            "repo": "meetup-recommendations-micronaut",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Micronaut Predator JDBC Example",
+          "description": "by Franz Allan Valencia See",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 197909668,
+            "language": "Java",
+            "last_commit": "2019-07-22T02:51:12Z",
+            "owner": "franz-see",
+            "repo": "micronaut-predator-jdbc-example",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Panopticum",
+          "description": "Dev/QA web tool for DB operations (MongoDB, Redis, ClickHouse, PostgreSQL) with Micronaut + Thymeleaf + MCP",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1151944980,
+            "language": "Java",
+            "last_commit": "2026-07-27T03:36:08Z",
+            "owner": "theSharque",
+            "repo": "panopticum",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Agorapulse Micronaut Libraries",
+          "description": "by Agora Pulse",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 245382699,
+            "language": null,
+            "last_commit": "2020-03-06T10:46:02Z",
+            "owner": "agorapulse",
+            "repo": "micronaut-libraries",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "GitHub Projects"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T21:02:55.385Z",
+    "last_updated": "2026-08-19T12:39:08.202Z",
     "original_repository": "JonasTebben/awesome-micronaut",
+    "original_repository_id": 172259740,
     "original_repository_sha": "23e2ce199b0822c57f6593b07a6e2c29d0073503",
     "enhanced_repository": "enhansome/enhansome-micronaut",
     "enhanced_repository_description": null,
