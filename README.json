@@ -273,7 +273,7 @@
             "archived": false,
             "id": 1151944980,
             "language": "Java",
-            "last_commit": "2026-07-27T03:36:08Z",
+            "last_commit": "2026-08-20T04:33:11Z",
             "owner": "theSharque",
             "repo": "panopticum",
             "stars": 4
@@ -299,7 +299,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T21:09:54.174Z",
+    "last_updated": "2026-08-20T21:11:44.841Z",
     "original_repository": "JonasTebben/awesome-micronaut",
     "original_repository_id": 172259740,
     "original_repository_sha": "23e2ce199b0822c57f6593b07a6e2c29d0073503",
