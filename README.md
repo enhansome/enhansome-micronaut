@@ -168,7 +168,7 @@ Thanks goes to these wonderful people ✨:
 </table>
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) ⭐ 8,093 | 🐛 89 | 🌐 MDX | 📅 2026-08-21 specification. Contributions of any kind welcome! See [CONTRIBUTING](./CONTRIBUTING.md).
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) ⭐ 8,093 | 🐛 90 | 🌐 MDX | 📅 2026-08-21 specification. Contributions of any kind welcome! See [CONTRIBUTING](./CONTRIBUTING.md).
 
 ***
 
