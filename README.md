@@ -144,7 +144,7 @@ Micronaut is a modern, JVM-based, full stack microservices framework designed fo
 * [Micronaut Meetup Event Recommendations](https://github.com/jexp/meetup-recommendations-micronaut) ⭐ 5 | 🐛 0 | 🌐 Java | 📅 2019-03-22 by [Michael Hunger](https://twitter.com/mesirii)
 * [Micronaut Predator JDBC Example](https://github.com/franz-see/micronaut-predator-jdbc-example) ⭐ 5 | 🐛 0 | 🌐 Java | 📅 2019-07-22 by [Franz Allan Valencia See
   ](https://twitter.com/franz_see)
-* [Panopticum](https://github.com/theSharque/panopticum) ⭐ 4 | 🐛 1 | 🌐 Java | 📅 2026-08-20 - Dev/QA web tool for DB operations (MongoDB, Redis, ClickHouse, PostgreSQL) with Micronaut + Thymeleaf + MCP
+* [Panopticum](https://github.com/theSharque/panopticum) ⭐ 4 | 🐛 1 | 🌐 Java | 📅 2026-08-27 - Dev/QA web tool for DB operations (MongoDB, Redis, ClickHouse, PostgreSQL) with Micronaut + Thymeleaf + MCP
 * [Agorapulse Micronaut Libraries](https://github.com/agorapulse/micronaut-libraries) ⚠️ Archived by [Agora Pulse](https://twitter.com/AgoraPulse)
 
 ## Contributors
@@ -168,7 +168,7 @@ Thanks goes to these wonderful people ✨:
 </table>
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) ⭐ 8,093 | 🐛 89 | 🌐 MDX | 📅 2026-08-21 specification. Contributions of any kind welcome! See [CONTRIBUTING](./CONTRIBUTING.md).
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) ⭐ 8,093 | 🐛 89 | 🌐 MDX | 📅 2026-08-27 specification. Contributions of any kind welcome! See [CONTRIBUTING](./CONTRIBUTING.md).
 
 ***
 
