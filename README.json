@@ -16,7 +16,8 @@
             "owner": "micronaut-projects",
             "repo": "presentations",
             "stars": 25
-          }
+          },
+          "first_seen": "2026-08-28T04:31:49.317Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "micronaut-projects",
             "repo": "presentations",
             "stars": 25
-          }
+          },
+          "first_seen": "2026-08-28T04:31:49.317Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "micronaut-projects",
             "repo": "presentations",
             "stars": 25
-          }
+          },
+          "first_seen": "2026-08-28T04:31:49.317Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "alvarosanchez",
             "repo": "micronaut-v1-workshop-java",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T04:31:49.317Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "micronaut-guides",
             "repo": "micronaut-spa-react",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T04:31:49.317Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "vladimir-dejanovic",
             "repo": "micronaut-vs-spring-boot",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T04:31:49.317Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "jexp",
             "repo": "meetup-recommendations-micronaut",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T04:31:49.317Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "mrhaki",
             "repo": "javaland2019-micronaut",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T04:31:49.317Z"
         },
         {
           "node_type": "item",
@@ -136,7 +144,8 @@
             "owner": "JacobAae",
             "repo": "zipstreamer",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T04:31:49.317Z"
         },
         {
           "node_type": "item",
@@ -151,7 +160,8 @@
             "owner": "ilopmar",
             "repo": "devoxxuk-2019-micronaut",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T04:31:49.317Z"
         }
       ],
       "title": "Talks and Screencasts"
@@ -172,7 +182,8 @@
             "owner": "micronaut-projects",
             "repo": "micronaut-examples",
             "stars": 532
-          }
+          },
+          "first_seen": "2026-08-28T04:31:49.317Z"
         },
         {
           "node_type": "item",
@@ -187,7 +198,8 @@
             "owner": "asc-lab",
             "repo": "micronaut-microservices-poc",
             "stars": 497
-          }
+          },
+          "first_seen": "2026-08-28T04:31:49.317Z"
         },
         {
           "node_type": "item",
@@ -202,7 +214,8 @@
             "owner": "piomin",
             "repo": "sample-micronaut-microservices",
             "stars": 60
-          }
+          },
+          "first_seen": "2026-08-28T04:31:49.317Z"
         },
         {
           "node_type": "item",
@@ -217,7 +230,8 @@
             "owner": "JonasTebben",
             "repo": "book-catalog",
             "stars": 22
-          }
+          },
+          "first_seen": "2026-08-28T04:31:49.317Z"
         },
         {
           "node_type": "item",
@@ -232,7 +246,8 @@
             "owner": "mfarache",
             "repo": "micronaut-ms",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-28T04:31:49.317Z"
         },
         {
           "node_type": "item",
@@ -247,7 +262,8 @@
             "owner": "jexp",
             "repo": "meetup-recommendations-micronaut",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T04:31:49.317Z"
         },
         {
           "node_type": "item",
@@ -262,7 +278,8 @@
             "owner": "franz-see",
             "repo": "micronaut-predator-jdbc-example",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T04:31:49.317Z"
         },
         {
           "node_type": "item",
@@ -277,7 +294,8 @@
             "owner": "theSharque",
             "repo": "panopticum",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T04:31:49.317Z"
         },
         {
           "node_type": "item",
@@ -292,14 +310,15 @@
             "owner": "agorapulse",
             "repo": "micronaut-libraries",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T04:31:49.317Z"
         }
       ],
       "title": "GitHub Projects"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:49:36.660Z",
+    "last_updated": "2026-08-28T04:31:49.317Z",
     "original_repository_info": {
       "archived": false,
       "id": 172259740,
