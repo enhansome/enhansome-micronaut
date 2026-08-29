@@ -10,12 +10,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A repository of Presentations about Micronaut",
+            "homepage": null,
             "id": 123307848,
             "language": "Java",
+            "license": null,
             "last_commit": "2023-10-06T12:46:12Z",
+            "open_issues": 2,
             "owner": "micronaut-projects",
             "repo": "presentations",
-            "stars": 25
+            "stars": 25,
+            "topics": [
+              "marketing"
+            ]
           },
           "first_seen": "2026-08-28T04:31:49.317Z"
         },
@@ -26,12 +33,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A repository of Presentations about Micronaut",
+            "homepage": null,
             "id": 123307848,
             "language": "Java",
+            "license": null,
             "last_commit": "2023-10-06T12:46:12Z",
+            "open_issues": 2,
             "owner": "micronaut-projects",
             "repo": "presentations",
-            "stars": 25
+            "stars": 25,
+            "topics": [
+              "marketing"
+            ]
           },
           "first_seen": "2026-08-28T04:31:49.317Z"
         },
@@ -42,12 +56,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A repository of Presentations about Micronaut",
+            "homepage": null,
             "id": 123307848,
             "language": "Java",
+            "license": null,
             "last_commit": "2023-10-06T12:46:12Z",
+            "open_issues": 2,
             "owner": "micronaut-projects",
             "repo": "presentations",
-            "stars": 25
+            "stars": 25,
+            "topics": [
+              "marketing"
+            ]
           },
           "first_seen": "2026-08-28T04:31:49.317Z"
         },
@@ -58,12 +79,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Introductory workshop about Micronaut",
+            "homepage": null,
             "id": 157191012,
             "language": "Java",
+            "license": null,
             "last_commit": "2026-04-15T13:35:24Z",
+            "open_issues": 1,
             "owner": "alvarosanchez",
             "repo": "micronaut-v1-workshop-java",
-            "stars": 14
+            "stars": 14,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:31:49.317Z"
         },
@@ -74,12 +100,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Building a Single-Page-App with Micronaut",
+            "homepage": null,
             "id": 174250300,
             "language": "Java",
+            "license": null,
             "last_commit": "2022-12-09T14:56:07Z",
+            "open_issues": 51,
             "owner": "micronaut-guides",
             "repo": "micronaut-spa-react",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:31:49.317Z"
         },
@@ -90,12 +121,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code used for my conf talk \"Micronaut, Dragon-Slayer (Spring/boot) or just another framework \"",
+            "homepage": null,
             "id": 181223220,
             "language": "Java",
+            "license": "GPL-3.0",
             "last_commit": "2020-10-13T14:05:20Z",
+            "open_issues": 6,
             "owner": "vladimir-dejanovic",
             "repo": "micronaut-vs-spring-boot",
-            "stars": 9
+            "stars": 9,
+            "topics": [
+              "java",
+              "micronaut",
+              "micronautfw",
+              "spring-boot",
+              "springboot"
+            ]
           },
           "first_seen": "2026-08-28T04:31:49.317Z"
         },
@@ -106,12 +148,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Example Application for Event Based Microservices providing Meetup Event Recommendations",
+            "homepage": null,
             "id": 176542109,
             "language": "Java",
+            "license": null,
             "last_commit": "2019-03-22T09:58:53Z",
+            "open_issues": 0,
             "owner": "jexp",
             "repo": "meetup-recommendations-micronaut",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:31:49.317Z"
         },
@@ -122,12 +169,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Presentation and code from live coding Micronaut done at JavaLand 2019 ",
+            "homepage": null,
             "id": 176709787,
             "language": null,
+            "license": null,
             "last_commit": "2019-03-20T10:34:17Z",
+            "open_issues": 0,
             "owner": "mrhaki",
             "repo": "javaland2019-micronaut",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:31:49.317Z"
         },
@@ -138,12 +190,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Streaming zip files demo for Greach 2019",
+            "homepage": null,
             "id": 177408780,
             "language": "Groovy",
+            "license": null,
             "last_commit": "2019-03-30T07:59:12Z",
+            "open_issues": 0,
             "owner": "JacobAae",
             "repo": "zipstreamer",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:31:49.317Z"
         },
@@ -154,12 +211,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 185024851,
             "language": "Java",
+            "license": null,
             "last_commit": "2019-05-08T21:44:59Z",
+            "open_issues": 0,
             "owner": "ilopmar",
             "repo": "devoxxuk-2019-micronaut",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:31:49.317Z"
         }
@@ -176,12 +238,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Example Projects Using Micronaut",
+            "homepage": null,
             "id": 131314325,
             "language": null,
+            "license": null,
             "last_commit": "2022-11-22T04:42:30Z",
+            "open_issues": 45,
             "owner": "micronaut-projects",
             "repo": "micronaut-examples",
-            "stars": 532
+            "stars": 532,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:31:49.317Z"
         },
@@ -192,12 +259,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Very simplified insurance sales system made in a microservices architecture using Micronaut",
+            "homepage": "https://altkomsoftware.pl/en/blog/microservices-micronaut/",
             "id": 143267111,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2022-08-13T18:19:59Z",
+            "open_issues": 6,
             "owner": "asc-lab",
             "repo": "micronaut-microservices-poc",
-            "stars": 497
+            "stars": 497,
+            "topics": [
+              "consul",
+              "h2-database",
+              "insurance",
+              "jwt",
+              "jwt-auth",
+              "kafka",
+              "micronaut",
+              "microservices",
+              "microservices-architecture",
+              "mongodb",
+              "postgresql",
+              "zipkin"
+            ]
           },
           "first_seen": "2026-08-28T04:31:49.317Z"
         },
@@ -208,12 +293,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "sample micronaut application illustrates using basic microservices patterns like distributed configuration and service discovery with Consul, distributed tracing with Zipkin, inter-service communication with micronaut http client",
+            "homepage": "https://piotrminkowski.com/",
             "id": 166844555,
             "language": "Java",
+            "license": null,
             "last_commit": "2026-02-25T21:15:19Z",
+            "open_issues": 1,
             "owner": "piomin",
             "repo": "sample-micronaut-microservices",
-            "stars": 60
+            "stars": 60,
+            "topics": [
+              "consul",
+              "micronaut",
+              "microservices",
+              "zipkin"
+            ]
           },
           "first_seen": "2026-08-28T04:31:49.317Z"
         },
@@ -224,12 +319,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A book-catalog example application written with the Micronaut framework.",
+            "homepage": "https://blogs.oracle.com/javamagazine/building-microservices-with-micronaut",
             "id": 157515802,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2019-01-21T10:10:39Z",
+            "open_issues": 0,
             "owner": "JonasTebben",
             "repo": "book-catalog",
-            "stars": 22
+            "stars": 22,
+            "topics": [
+              "jdk11",
+              "micronautfw"
+            ]
           },
           "first_seen": "2026-08-28T04:31:49.317Z"
         },
@@ -240,12 +343,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 138188770,
             "language": "Shell",
+            "license": null,
             "last_commit": "2018-11-01T11:09:51Z",
+            "open_issues": 1,
             "owner": "mfarache",
             "repo": "micronaut-ms",
-            "stars": 21
+            "stars": 21,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:31:49.317Z"
         },
@@ -256,12 +364,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Example Application for Event Based Microservices providing Meetup Event Recommendations",
+            "homepage": null,
             "id": 176542109,
             "language": "Java",
+            "license": null,
             "last_commit": "2019-03-22T09:58:53Z",
+            "open_issues": 0,
             "owner": "jexp",
             "repo": "meetup-recommendations-micronaut",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:31:49.317Z"
         },
@@ -272,12 +385,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An example REST java application that uses microanut and microanut-predator-jdbc",
+            "homepage": null,
             "id": 197909668,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2019-07-22T02:51:12Z",
+            "open_issues": 0,
             "owner": "franz-see",
             "repo": "micronaut-predator-jdbc-example",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:31:49.317Z"
         },
@@ -288,12 +406,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple and flexible control system for managing various databases in your Kubernetes cluster",
+            "homepage": null,
             "id": 1151944980,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2026-08-27T10:05:13Z",
+            "open_issues": 1,
             "owner": "theSharque",
             "repo": "panopticum",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:31:49.317Z"
         },
@@ -304,12 +427,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Redirect GitHub Site for Former Micronaut Libraries",
+            "homepage": null,
             "id": 245382699,
             "language": null,
+            "license": null,
             "last_commit": "2020-03-06T10:46:02Z",
+            "open_issues": 0,
             "owner": "agorapulse",
             "repo": "micronaut-libraries",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:31:49.317Z"
         }
@@ -318,15 +446,31 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T02:55:09.478Z",
+    "last_updated": "2026-08-29T04:49:22.219Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of resources for the Micronaut JVM framework",
+      "homepage": "http://micronaut.io",
       "id": 172259740,
       "language": null,
+      "license": null,
       "last_commit": "2026-03-14T08:54:43Z",
+      "open_issues": 0,
       "owner": "JonasTebben",
       "repo": "awesome-micronaut",
-      "stars": 238
+      "stars": 238,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "cloud-native",
+        "groovy",
+        "java",
+        "jvm",
+        "kotlin",
+        "micronaut",
+        "micronautfw",
+        "microservices"
+      ]
     },
     "original_repository_sha": "23e2ce199b0822c57f6593b07a6e2c29d0073503",
     "enhanced_repository": "enhansome/enhansome-micronaut",
