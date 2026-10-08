@@ -144,7 +144,7 @@ Micronaut is a modern, JVM-based, full stack microservices framework designed fo
 * [Micronaut Meetup Event Recommendations](https://github.com/jexp/meetup-recommendations-micronaut) ⭐ 5 | 🐛 0 | 🌐 Java | 📅 2019-03-22 by [Michael Hunger](https://twitter.com/mesirii)
 * [Micronaut Predator JDBC Example](https://github.com/franz-see/micronaut-predator-jdbc-example) ⭐ 5 | 🐛 0 | 🌐 Java | 📅 2019-07-22 by [Franz Allan Valencia See
   ](https://twitter.com/franz_see)
-* [Panopticum](https://github.com/theSharque/panopticum) ⭐ 4 | 🐛 1 | 🌐 Java | 📅 2026-09-11 - Dev/QA web tool for DB operations (MongoDB, Redis, ClickHouse, PostgreSQL) with Micronaut + Thymeleaf + MCP
+* [Panopticum](https://github.com/theSharque/panopticum) ⭐ 4 | 🐛 1 | 🌐 Java | 📅 2026-10-07 - Dev/QA web tool for DB operations (MongoDB, Redis, ClickHouse, PostgreSQL) with Micronaut + Thymeleaf + MCP
 * [Agorapulse Micronaut Libraries](https://github.com/agorapulse/micronaut-libraries) ⚠️ Archived by [Agora Pulse](https://twitter.com/AgoraPulse)
 
 ## Contributors
@@ -172,4 +172,4 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
