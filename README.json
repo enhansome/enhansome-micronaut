@@ -411,8 +411,8 @@
             "id": 1151944980,
             "language": "Java",
             "license": "MIT",
-            "last_commit": "2026-10-07T11:43:25Z",
-            "open_issues": 1,
+            "last_commit": "2026-10-08T03:46:58Z",
+            "open_issues": 0,
             "owner": "theSharque",
             "repo": "panopticum",
             "stars": 4,
@@ -446,7 +446,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T00:26:08.430Z",
+    "last_updated": "2026-10-09T00:41:32.153Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources for the Micronaut JVM framework",
