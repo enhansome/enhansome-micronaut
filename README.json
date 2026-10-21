@@ -268,7 +268,7 @@
             "open_issues": 6,
             "owner": "asc-lab",
             "repo": "micronaut-microservices-poc",
-            "stars": 497,
+            "stars": 498,
             "topics": [
               "consul",
               "h2-database",
@@ -446,7 +446,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T23:26:36.074Z",
+    "last_updated": "2026-10-21T23:42:20.510Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources for the Micronaut JVM framework",

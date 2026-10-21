@@ -137,7 +137,7 @@ Micronaut is a modern, JVM-based, full stack microservices framework designed fo
 # GitHub Projects
 
 * [Official Micronaut Petstore](https://github.com/micronaut-projects/micronaut-examples/tree/master/petstore) ⚠️ Archived by [OCI](https://twitter.com/ObjectComputing)
-* [ASCLAB Micronaut PoC - LAB Insurance Sales Portal](https://github.com/asc-lab/micronaut-microservices-poc) ⭐ 497 | 🐛 6 | 🌐 Java | 📅 2022-08-13 by [Altkom Software & Consulting](https://twitter.com/AltkomSC)
+* [ASCLAB Micronaut PoC - LAB Insurance Sales Portal](https://github.com/asc-lab/micronaut-microservices-poc) ⭐ 498 | 🐛 6 | 🌐 Java | 📅 2022-08-13 by [Altkom Software & Consulting](https://twitter.com/AltkomSC)
 * [Sample Micronaut Microservices](https://github.com/piomin/sample-micronaut-microservices) ⭐ 60 | 🐛 1 | 🌐 Java | 📅 2026-02-25 by [Piotr Mińkowski](https://twitter.com/Piotr_Minkowski)
 * [Micronaut Book Catalog](https://github.com/JonasHavers/book-catalog) ⭐ 22 | 🐛 0 | 🌐 Java | 📅 2019-01-21 by [Jonas Havers](https://twitter.com/JonasHavers)
 * [Micronaut Beer Microservices](https://github.com/mfarache/micronaut-ms) ⭐ 21 | 🐛 1 | 🌐 Shell | 📅 2018-11-01 by [Mauricio Farache](https://www.twitter.com/mahou5x)
@@ -168,8 +168,8 @@ Thanks goes to these wonderful people ✨:
 </table>
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) ⭐ 8,111 | 🐛 85 | 🌐 MDX | 📅 2026-10-15 specification. Contributions of any kind welcome! See [CONTRIBUTING](./CONTRIBUTING.md).
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) ⭐ 8,113 | 🐛 85 | 🌐 MDX | 📅 2026-10-15 specification. Contributions of any kind welcome! See [CONTRIBUTING](./CONTRIBUTING.md).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-21._
