@@ -168,8 +168,8 @@ Thanks goes to these wonderful people ✨:
 </table>
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) ⭐ 8,114 | 🐛 90 | 🌐 MDX | 📅 2026-11-01 specification. Contributions of any kind welcome! See [CONTRIBUTING](./CONTRIBUTING.md).
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) ⭐ 8,116 | 🐛 91 | 🌐 MDX | 📅 2026-11-01 specification. Contributions of any kind welcome! See [CONTRIBUTING](./CONTRIBUTING.md).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-04._
