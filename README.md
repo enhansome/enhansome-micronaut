@@ -7,8 +7,8 @@ A hand-picked and curated list of resources for the [Micronaut framework](http:/
 **Contributing**
 
 Pull requests are highly appreciated.
-Please take note of the [guidelines](https://github.com/JonasHavers/awesome-micronaut/blob/master/CONTRIBUTING.md) ⭐ 238 | 🐛 0 | 📅 2026-03-14 before contributing.
-Thanks to every [contributor](https://github.com/JonasHavers/awesome-micronaut/graphs/contributors) ⭐ 238 | 🐛 0 | 📅 2026-03-14.
+Please take note of the [guidelines](https://github.com/JonasHavers/awesome-micronaut/blob/master/CONTRIBUTING.md) ⭐ 238 | 🐛 0 | 📅 2026-11-16 before contributing.
+Thanks to every [contributor](https://github.com/JonasHavers/awesome-micronaut/graphs/contributors) ⭐ 238 | 🐛 0 | 📅 2026-11-16.
 
 # Micronaut
 
@@ -139,6 +139,7 @@ Micronaut is a modern, JVM-based, full stack microservices framework designed fo
 * [Official Micronaut Petstore](https://github.com/micronaut-projects/micronaut-examples/tree/master/petstore) ⚠️ Archived by [OCI](https://twitter.com/ObjectComputing)
 * [ASCLAB Micronaut PoC - LAB Insurance Sales Portal](https://github.com/asc-lab/micronaut-microservices-poc) ⭐ 498 | 🐛 6 | 🌐 Java | 📅 2022-08-13 by [Altkom Software & Consulting](https://twitter.com/AltkomSC)
 * [Sample Micronaut Microservices](https://github.com/piomin/sample-micronaut-microservices) ⭐ 60 | 🐛 1 | 🌐 Java | 📅 2026-02-25 by [Piotr Mińkowski](https://twitter.com/Piotr_Minkowski)
+* [Mateu](https://github.com/miguelperezcolom/mateu) ⭐ 56 | 🐛 31 | 🌐 HTML | 📅 2026-11-16 - Model-driven UI framework that renders forms, CRUDs and app shells from annotated Java classes, with a Micronaut adapter, by [Miguel Pérez Colom](https://github.com/miguelperezcolom)
 * [Micronaut Book Catalog](https://github.com/JonasHavers/book-catalog) ⭐ 22 | 🐛 0 | 🌐 Java | 📅 2019-01-21 by [Jonas Havers](https://twitter.com/JonasHavers)
 * [Micronaut Beer Microservices](https://github.com/mfarache/micronaut-ms) ⭐ 21 | 🐛 1 | 🌐 Shell | 📅 2018-11-01 by [Mauricio Farache](https://www.twitter.com/mahou5x)
 * [Micronaut Meetup Event Recommendations](https://github.com/jexp/meetup-recommendations-micronaut) ⭐ 5 | 🐛 0 | 🌐 Java | 📅 2019-03-22 by [Michael Hunger](https://twitter.com/mesirii)
@@ -168,8 +169,8 @@ Thanks goes to these wonderful people ✨:
 </table>
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) ⭐ 8,117 | 🐛 105 | 🌐 MDX | 📅 2026-11-15 specification. Contributions of any kind welcome! See [CONTRIBUTING](./CONTRIBUTING.md).
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) ⭐ 8,119 | 🐛 102 | 🌐 MDX | 📅 2026-11-17 specification. Contributions of any kind welcome! See [CONTRIBUTING](./CONTRIBUTING.md).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-17._
