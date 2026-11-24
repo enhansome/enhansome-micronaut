@@ -139,13 +139,13 @@ Micronaut is a modern, JVM-based, full stack microservices framework designed fo
 * [Official Micronaut Petstore](https://github.com/micronaut-projects/micronaut-examples/tree/master/petstore) ⚠️ Archived by [OCI](https://twitter.com/ObjectComputing)
 * [ASCLAB Micronaut PoC - LAB Insurance Sales Portal](https://github.com/asc-lab/micronaut-microservices-poc) ⭐ 498 | 🐛 6 | 🌐 Java | 📅 2022-08-13 by [Altkom Software & Consulting](https://twitter.com/AltkomSC)
 * [Sample Micronaut Microservices](https://github.com/piomin/sample-micronaut-microservices) ⭐ 60 | 🐛 1 | 🌐 Java | 📅 2026-02-25 by [Piotr Mińkowski](https://twitter.com/Piotr_Minkowski)
-* [Mateu](https://github.com/miguelperezcolom/mateu) ⭐ 56 | 🐛 40 | 🌐 HTML | 📅 2026-11-23 - Model-driven UI framework that renders forms, CRUDs and app shells from annotated Java classes, with a Micronaut adapter, by [Miguel Pérez Colom](https://github.com/miguelperezcolom)
+* [Mateu](https://github.com/miguelperezcolom/mateu) ⭐ 56 | 🐛 41 | 🌐 HTML | 📅 2026-11-24 - Model-driven UI framework that renders forms, CRUDs and app shells from annotated Java classes, with a Micronaut adapter, by [Miguel Pérez Colom](https://github.com/miguelperezcolom)
 * [Micronaut Book Catalog](https://github.com/JonasHavers/book-catalog) ⭐ 22 | 🐛 0 | 🌐 Java | 📅 2019-01-21 by [Jonas Havers](https://twitter.com/JonasHavers)
 * [Micronaut Beer Microservices](https://github.com/mfarache/micronaut-ms) ⭐ 21 | 🐛 1 | 🌐 Shell | 📅 2018-11-01 by [Mauricio Farache](https://www.twitter.com/mahou5x)
 * [Micronaut Meetup Event Recommendations](https://github.com/jexp/meetup-recommendations-micronaut) ⭐ 5 | 🐛 0 | 🌐 Java | 📅 2019-03-22 by [Michael Hunger](https://twitter.com/mesirii)
 * [Micronaut Predator JDBC Example](https://github.com/franz-see/micronaut-predator-jdbc-example) ⭐ 5 | 🐛 0 | 🌐 Java | 📅 2019-07-22 by [Franz Allan Valencia See
   ](https://twitter.com/franz_see)
-* [Panopticum](https://github.com/theSharque/panopticum) ⭐ 4 | 🐛 0 | 🌐 Java | 📅 2026-11-08 - Dev/QA web tool for DB operations (MongoDB, Redis, ClickHouse, PostgreSQL) with Micronaut + Thymeleaf + MCP
+* [Panopticum](https://github.com/theSharque/panopticum) ⭐ 4 | 🐛 0 | 🌐 Java | 📅 2026-11-24 - Dev/QA web tool for DB operations (MongoDB, Redis, ClickHouse, PostgreSQL) with Micronaut + Thymeleaf + MCP
 * [Agorapulse Micronaut Libraries](https://github.com/agorapulse/micronaut-libraries) ⚠️ Archived by [Agora Pulse](https://twitter.com/AgoraPulse)
 
 ## Contributors
@@ -169,8 +169,8 @@ Thanks goes to these wonderful people ✨:
 </table>
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) ⭐ 8,120 | 🐛 100 | 🌐 MDX | 📅 2026-11-22 specification. Contributions of any kind welcome! See [CONTRIBUTING](./CONTRIBUTING.md).
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) ⭐ 8,121 | 🐛 99 | 🌐 MDX | 📅 2026-11-23 specification. Contributions of any kind welcome! See [CONTRIBUTING](./CONTRIBUTING.md).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._

@@ -324,8 +324,8 @@
             "id": 81244001,
             "language": "HTML",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-23T00:48:18Z",
-            "open_issues": 40,
+            "last_commit": "2026-11-24T04:31:56Z",
+            "open_issues": 41,
             "owner": "miguelperezcolom",
             "repo": "mateu",
             "stars": 56,
@@ -437,7 +437,7 @@
             "id": 1151944980,
             "language": "Java",
             "license": "MIT",
-            "last_commit": "2026-11-08T12:43:37Z",
+            "last_commit": "2026-11-24T03:31:05Z",
             "open_issues": 0,
             "owner": "theSharque",
             "repo": "panopticum",
@@ -472,7 +472,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-23T01:08:49.188Z",
+    "last_updated": "2026-11-24T05:00:10.071Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources for the Micronaut JVM framework",
