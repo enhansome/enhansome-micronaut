@@ -169,8 +169,8 @@ Thanks goes to these wonderful people ✨:
 </table>
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) ⭐ 8,122 | 🐛 99 | 🌐 MDX | 📅 2026-11-25 specification. Contributions of any kind welcome! See [CONTRIBUTING](./CONTRIBUTING.md).
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) ⭐ 8,123 | 🐛 99 | 🌐 MDX | 📅 2026-11-26 specification. Contributions of any kind welcome! See [CONTRIBUTING](./CONTRIBUTING.md).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._
