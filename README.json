@@ -324,7 +324,7 @@
             "id": 81244001,
             "language": "HTML",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-24T11:17:59Z",
+            "last_commit": "2026-11-26T08:15:29Z",
             "open_issues": 42,
             "owner": "miguelperezcolom",
             "repo": "mateu",
@@ -472,7 +472,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T03:11:32.234Z",
+    "last_updated": "2026-11-27T03:17:23.904Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources for the Micronaut JVM framework",
